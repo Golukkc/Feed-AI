@@ -431,10 +431,10 @@ def calculate_Optimised_title_length(df):
 
 def main():
     
-    csv_file = "Gant_Shirt.csv"
+    csv_file = "All_Shirt.csv"
     df = pd.read_csv(csv_file)
     
-    df5 = df.head(1)
+    df5 = df
     
     
     filtered_df5 = filter_image_columns(df5)
