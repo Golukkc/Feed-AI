@@ -1,0 +1,42 @@
+productSku,hostname,business_name,pagePath,product_type,productName,description,productCategoryLevel1,productCategoryList,testCategory,tags,more_info,image_link,image_url,image_1,image_2,image_3,analysis_result,Material,Product Type,Product Category,Color,Print,Fit,Sleeve Type,Collar Type,Cuff Style,Product USPs,Pocket Type,Logo Details,Marketplace,AI Generated Title,Length of title,AI Optimised Title,AI_Optimised_Title,Length of Optimised title
+9062270173487,www.iconicindia.com,iconic-india.myshopify.com,https://www.iconicindia.com/products/gant-gmw23-003000120005-black-shirt,Shirt,Gant Black Fashion Checked Regular Fit Shirt,Reg Poplin Gingham Shirt,Gant,"PREEOSS10,Gant Men's Shirts,Gant Men's Clothing Collection,Black Shirt,All Iconic Editions,Flat 30,Gant,Best Of the Season Collection,Exclusive Collections,Flat 50,Influencer's Pick,Check Shirt,Shirts for Men,Prepay 10,Gifts For Mens,Gift For Loved Ones,Homepage 1,Shirts for Men And Women,Gant AW23,Premium Clothing for Men,Tax 12%","PREEOSS10,Gant Men's Shirts,Gant Men's Clothing Collection,Black Shirt,All Iconic Editions,Flat 30,Gant,Best Of the Season Collection,Exclusive Collections,Flat 50,Influencer's Pick,Check Shirt,Shirts for Men,Prepay 10,Gifts For Mens,Gift For Loved Ones,Homepage 1,Shirts for Men And Women,Gant AW23,Premium Clothing for Men,Tax 12%","AW23, BCA Landing, Black, Black Shirt, Check Shirt, Checked, Description, Exclusive, Flat 30, Flat 50, Gant, Gant AW23, Gant Men, Gant Men Shirt, GANT-MEN-SHIRT-REGULAR FIT, Gift For Love Ones, Gifts For Men, GMW23-003000120005 Black, Homepage 1, Homepage 2, Men, Men Shirt, Men Topwear Men Men Topwear, PREEOSS10, Prepay 10, Regular Fit, Shirt","{""body_html"": ""<p>Reg Poplin Gingham Shirt</p>""}",https://cdn.shopify.com/s/files/1/0670/5578/0143/products/GMW23-003000120005_1.jpg?v=1695367362,https://cdn.shopify.com/s/files/1/0670/5578/0143/products/GMW23-003000120005_1_small.jpg?v=1695367362,https://cdn.shopify.com/s/files/1/0670/5578/0143/products/GMW23-003000120005_2.jpg?v=1695367362,https://cdn.shopify.com/s/files/1/0670/5578/0143/products/GMW23-003000120005_3.jpg?v=1695367362,https://cdn.shopify.com/s/files/1/0670/5578/0143/products/GMW23-003000120005_4.jpg?v=1695367362,"## Gant Shirt Attribute Prediction
+
+Here's the analysis of the provided information and the predicted attributes in an Excel format:
+
+| Attribute             | Predicted Value |
+|-----------------------|-----------------|
+| Brand                 | Gant           |
+| Gender                | Men            |
+| Material              | Cotton         |
+| Product Type          | Casual         |
+| Product Category      | Shirt          |
+| Color                 | Black          |
+| Print                 | Checked        |
+| Fit                   | Regular Fit    |
+| Sleeve Type           | Full Sleeve     |
+| Collar Type           | Classic Collar |
+| Cuff Style            | Standard Cuff  |
+| Product USPs          | None           |
+| Pocket Type           | None           |
+| Logo Details          | None           |
+| Marketplace           | Iconic         |
+
+**Explanation:**
+
+* **Brand:**  Clearly stated as ""Gant"" in the title.
+* **Gender:**  ""Gant Men's Shirts"" and ""Gant Men's Clothing Collection"" in the productCategoryList strongly suggest it's for men.
+* **Material:**  ""Reg Poplin Gingham Shirt"" in the description implies a cotton material, likely a poplin weave. 
+* **Product Type:**  ""Casual"" is a reasonable assumption based on the ""Gingham"" pattern, which is typically associated with casual wear.
+* **Product Category:**  ""Shirt"" is confirmed by the title and description.
+* **Color:**  ""Black Shirt"" in the productCategoryList and ""GMW23-003000120005 Black"" in the tags confirm the color.
+* **Print:**  ""Check Shirt"" and ""Checked"" in the tags and ""Gingham"" in the description indicate a checked pattern.
+* **Fit:**  ""Regular Fit"" is explicitly stated in the title.
+* **Sleeve Type:**  No information is provided about the sleeve type, but ""Shirt"" generally implies full sleeves.
+* **Collar Type:**  No specific collar type is mentioned, but the description ""Reg Poplin Gingham Shirt"" suggests a classic collar.
+* **Cuff Style:**  No information is provided about the cuff style, but standard cuffs are the most common for casual shirts.
+* **Product USPs:**  No specific USPs are mentioned in the description or tags.
+* **Pocket Type:**  No information is provided about pockets, and the description doesn't suggest any.
+* **Logo Details:**  No mention of a logo in the description or tags.
+* **Marketplace:**  ""Iconic"" is explicitly stated in the productCategoryList. 
+",Cotton,Casual,Shirt,Black,Checked,Regular Fit,Full Sleeve,Classic Collar,Standard Cuff,None,None,None,Iconic,"Gant Men Cotton Black Checked Regular Fit Casual Shirt  |  Full Sleeve, Classic Collar, Standard Cuff | Iconic",110,"The title for the product is: ||| Gant Men Cotton Black Checked Regular Fit Casual Shirt | Full Sleeve, Classic Collar, Standard Cuff | Iconic ||| 
+","Gant Men Cotton Black Checked Regular Fit Casual Shirt | Full Sleeve, Classic Collar, Standard Cuff | Iconic",108
