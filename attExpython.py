@@ -472,7 +472,7 @@ def main():
     row['productCategoryList'],
     row['tags'],
     row['more_info'],
-    row['productCategoryLevel1'], 
+    row['vendor'], 
     row['product_type'], 
     category,
     generation_config,
