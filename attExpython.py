@@ -434,7 +434,7 @@ def main():
     csv_file = "All_Shirt.csv"
     df = pd.read_csv(csv_file)
     
-    df5 = df.head(5)
+    df5 = df
     
     
     filtered_df5 = filter_image_columns(df5)
