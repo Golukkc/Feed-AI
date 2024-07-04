@@ -177,7 +177,7 @@ Output Format:
 
     file_names = []
     for url in url_column:
-        filename = download_image(url, "temp_image_1.jpg")
+        filename = download_image(url, "temp_image_5.jpg")
         if filename:
             try:
                 # Upload the file using genai.upload_file
