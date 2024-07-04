@@ -253,9 +253,9 @@ def generate_AI_Optimised_title( Brand,Gender,Style_Type, Material,Product_Type,
         material = {Material}
         product_type = {Product_Type}
         fit_type = {Fit_Type}
-        Rise = {Rise}
-        Length = {Length}
-        Wash = {Wash}
+        rise = {Rise}
+        length = {Length}
+        wash = {Wash}
         color = {Color}
         product_usps = {Product_USPs}
         marketplace_name = {Marketplace}
@@ -271,9 +271,9 @@ def generate_AI_Optimised_title( Brand,Gender,Style_Type, Material,Product_Type,
         material = Cotton
         product_type = Jeans
         fit_type = Slim Fit
-        Rise = Mid Rise
-        Length = Full Length
-        Wash = Piece Dye
+        rise = Mid Rise
+        length = Full Length
+        wash = Piece Dye
         color = Navy Blue
         product_usps = Slash Knee
         marketplace_name = Iconic
@@ -338,9 +338,9 @@ def generate_ai_titles(row):
         material = row['Material']
         product_type = row['Product Type']
         fit_type = row['Fit Type']
-        Rise= row['Rise']
-        Length= row['Length']
-        Wash = row['Wash']
+        rise= row['Rise']
+        length= row['Length']
+        wash = row['Wash']
         color = row['Color']
         product_usps = row['Product USPs']
         marketplace_name = row['Marketplace']
@@ -367,7 +367,7 @@ def generate_ai_titles(row):
             
         title_parts.append(" | ")
         
-        attributes = [Rise, Length, Wash, color]
+        attributes = [rise, length, wash, color]
         formatted_attributes = [attr for attr in attributes if attr and attr not in exclude_values]
         
         if formatted_attributes:
